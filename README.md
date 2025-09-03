@@ -32,13 +32,6 @@
 - 📈 **30-Days-DSA-Challenge** – Solving daily DSA problems from LeetCode.  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thummasaikrishna&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thummasaikrishna&theme=tokyonight" alt="streak"/>
-</p>
-
 ---
 
 ## 🎬 Coding Vibes
